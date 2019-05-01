@@ -23,3 +23,4 @@ I must mention that this project did have some issues. The primary one being the
 
 If I had more time to work on this, I would’ve smoothed out the skewness mentioned above. I would also try to separate the statistic into more categories, such as a batter’s outcome against left and right handed pitchers or differentiate a player if they played on multiple teams. By creating multiple different elo rankings, it might give more nuance into a player’s strengths and weaknesses than a single number.
 
+Here is a link to a video demonstrating the statistic: https://www.loom.com/share/c629eb100578494a8cab42135f585337
