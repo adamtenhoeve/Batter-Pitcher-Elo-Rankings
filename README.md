@@ -1,4 +1,4 @@
-# CSCI4831FinalProject
+# Batter-Pitcher Elo Rankings
 Adam Ten Hoeve's Final Project for CU Boulder's Spring 2019 CSCI: 4831 Sabermetrics course.
 
 For my final project, I created a batter-pitcher comparison system, similar to an Elo score, which ranks players based on the outcomes of each at-bat matchup. With this elo ranking, we are able to calculate a probability that a player would win in any given pitcher-batter matchup. To compare the result of this probability, I recorded the actual historical results so we can compare the calculated probability to the actual number of matches that the pitcher won. In the notebook are also calculations for fWAR so we can compare different forms of overall ranking systems. For this statistic, I used the statcast data from 2016 through 2018 because it gave a large enough sample of matchups for each batter and pitcher.
